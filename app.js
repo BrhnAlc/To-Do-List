@@ -17,7 +17,7 @@ toDoContainer.appendChild(paragraf);
 
 paragraf.innerHTML=inputText.value;
 
-
+inputText.value="";
 
 
 })
