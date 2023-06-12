@@ -67,3 +67,15 @@ font-family: sans-serif;
 #clearToDo:active{
     background-color: black;
 }
+
+.paragraf-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;
+    color: purple;
+    text-transform: capitalize;
+}
+
+.to-dos{
+    margin-top: 10px;
+}
